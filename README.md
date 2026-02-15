@@ -1,4 +1,4 @@
-# Spotify Google Play Store Reviews Analysis
+# Analyzing Consumer Feedback on Spotify
 
 This project analyzes user satisfaction and feedback patterns for the Spotify app using Google Play Store reviews. Through sentiment analysis, topic modeling, and predictive classification, we identify key drivers of user experience and areas for improvement. 
 
