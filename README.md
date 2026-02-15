@@ -22,7 +22,9 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 We explored recurring themes across Spotify Play Store reviews to understand what drives user satisfaction. Most feedback centers on **premium pricing, ads, updates, playlists, and app performance**. Positive reviews emphasize smooth listening and playlist quality, while negative reviews focus on crashes, updates, and playback issues.
 
 👉 **Insight:** Core product experience and monetization design shape most user perceptions.
+
 <br>
+
 ### 😊 Sentiment Analysis — Looking Beyond Ratings
 Sentiment scores show a positively skewed distribution, with most reviews classified as neutral-to-positive. A notable finding is the **“5-star anomaly,”** where users give high ratings but still mention frustrations.
 
@@ -34,6 +36,20 @@ Sentiment scores show a positively skewed distribution, with most reviews classi
 We built rating prediction models using **TF-IDF** and **Word2Vec** features. TF-IDF achieved stronger performance (~75% accuracy). Both models performed well on extreme ratings but struggled with mid-range reviews due to mixed sentiment.
 
 👉 **Insight:** Machine learning detects clear opinions effectively, but nuanced feedback remains challenging to classify.
+
+## Business Strategy
+### 1️⃣ Go Beyond Star Ratings
+Our analysis shows that ratings alone hide important user frustrations. Even high-rating reviews contain negative feedback about features like **ads, reliability, and usability**.  
+
+👉 **Strategy:** Combine sentiment and topic insights to surface recurring pain points, then prioritize targeted product fixes, clearer FAQs, and improved support workflows to reduce churn.
+
+<br>
+
+### 2️⃣ Focus on Mid-Range Reviews for Growth
+Mid-range (e.g., **3-star**) reviews contain the most actionable insights, often combining praise with clear improvement suggestions.  
+
+👉 **Strategy:** Treat these reviews as early signals for UI issues and bugs. Prioritize fixes that convert moderately satisfied users into loyal advocates.
+
 
 ## Project Structure  
 ```
