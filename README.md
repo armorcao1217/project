@@ -39,13 +39,10 @@ Our analysis shows that ratings alone hide important user frustrations. Even hig
 
 👉 **Strategy:** Combine sentiment and topic insights to surface recurring pain points, then prioritize targeted product fixes, clearer FAQs, and improved support workflows to reduce churn.
 
-<br>
-
 ### 2️⃣ Focus on Mid-Range Reviews for Growth
 Mid-range (e.g., **3-star**) reviews contain the most actionable insights, often combining praise with clear improvement suggestions.  
 
 👉 **Strategy:** Treat these reviews as early signals for UI issues and bugs. Prioritize fixes that convert moderately satisfied users into loyal advocates.
-
 
 ## Project Structure  
 ```
