@@ -22,9 +22,7 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 We explored recurring themes across Spotify Play Store reviews to understand what drives user satisfaction. Most feedback centers on **premium pricing, ads, updates, playlists, and app performance**. Positive reviews emphasize smooth listening and playlist quality, while negative reviews focus on crashes, updates, and playback issues.
 
 👉 **Insight:** Core product experience and monetization design shape most user perceptions.
-
 <br>
-
 ### 😊 Sentiment Analysis — Looking Beyond Ratings
 Sentiment scores show a positively skewed distribution, with most reviews classified as neutral-to-positive. A notable finding is the **“5-star anomaly,”** where users give high ratings but still mention frustrations.
 
