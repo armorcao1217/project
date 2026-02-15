@@ -23,7 +23,6 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 ├── data
 │   ├── SPOTIFY_REVIEWS_tokens.csv
 │   └── SPOTIFY_REVIEWS.csv
-├── environment.yml
 ├── notebooks
 │   ├── 0 - Data Preparation.ipynb
 │   ├── 1 - Sentiment Analysis.ipynb
@@ -31,19 +30,8 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 │   ├── 2.1 - Topic Modeling_good_bad.ipynb
 │   ├── 2.2 - Topic Modeling_mid.ipynb
 │   └── 3 - Classification.ipynb
-├── pyproject.toml
+├── Final Report
+│   ├── Final Presentation.pdf
+│   └── Final Report.pdf
 ├── README.md
-└── src
-    ├── __init__.py
-    ├── mypkg.egg-info
-    │   ├── dependency_links.txt
-    │   ├── PKG-INFO
-    │   ├── SOURCES.txt
-    │   └── top_level.txt
-    └── spotify
-        ├── __pycache__
-        │   ├── mymodule.cpython-313.pyc
-        │   └── utils.cpython-313.pyc
-        ├── mymodule.py
-        └── utils.py
 ```
