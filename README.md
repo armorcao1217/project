@@ -23,10 +23,12 @@ We explored recurring themes across Spotify Play Store reviews to understand wha
 
 👉 Insight: Core product experience and monetization design shape most user perceptions. 
 
+
 😊 Sentiment Analysis — Looking Beyond Ratings
 Sentiment scores show a positively skewed distribution, with most reviews neutral-to-positive. A notable finding is the “5-star anomaly,” where users give high ratings but still mention frustrations.
 
 👉 Insight: Text sentiment adds important nuance that star ratings alone cannot capture.
+
 
 🤖 Predictive Classification — Predicting Ratings from Text
 We built rating prediction models using TF-IDF and Word2Vec features. TF-IDF achieved stronger performance (~75% accuracy). Both models performed well on extreme ratings but struggled with mid-range reviews due to mixed sentiment.
