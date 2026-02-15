@@ -25,6 +25,11 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 
 <br>
 
+## Method
+<img width="1064" height="630" alt="Screenshot 2026-02-15 at 3 59 09 PM" src="https://github.com/user-attachments/assets/d902706e-7fed-4c64-92e1-def779ece023" />
+
+<br>
+
 ## Results & Insights
 ### Topic Modeling — What Users Talk About
 We explored recurring themes across Spotify Play Store reviews to understand what drives user satisfaction. Most feedback centers on **premium pricing, ads, updates, playlists, and app performance**. Positive reviews emphasize smooth listening and playlist quality, while negative reviews focus on crashes, updates, and playback issues.
